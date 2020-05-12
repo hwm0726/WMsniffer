@@ -11,9 +11,8 @@ resolve.py: resolve packets from listen thread
 run.py: listen and show resolve information into home interface  
 UI_home: home interface
 ### Usage
-In Windows, use cmd with administrator mode:  
-python run.py  
-In Linux:  
+Firstly install the depedencies mentioned above, then    
+in Windows, use cmd with administrator mode:  
+python run.py    
+in Linux:  
 sudo ./run.py
-### TODO
-Optimization
