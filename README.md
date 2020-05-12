@@ -12,8 +12,8 @@ run.py: listen and show resolve information into home interface
 UI_home: home interface
 ### Usage
 In Windows, use cmd with administrator mode:  
-  python run.py  
+python run.py  
 In Linux:  
-  sudo ./run.py
+sudo ./run.py
 ### TODO
 Optimization
