@@ -13,8 +13,14 @@ UI_home: home interface
 ### Usage
 Firstly install the depedencies mentioned above.
   
-In Windows, use cmd with administrator mode:  
-python run.py  
+In Windows, use cmd with administrator mode:
+
+```shell 
+python run.py
+```
   
 In Linux:  
+
+```shell 
 sudo ./run.py
+```
